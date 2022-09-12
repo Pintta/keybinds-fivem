@@ -1,5 +1,5 @@
 Keybind politics
-
+	Keybind		Number
 	["ESC"]         = 322
     	["F1"]          = 288
     	["F2"]          = 289
