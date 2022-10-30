@@ -1,3 +1,7 @@
+```
+Example: RegisterKeyMapping("phone", "Open phone", "keyboard", "F1")
+```
+
 Input Parameter	Input Description
 BACK  =   Backspace
 TAB  =   Tab
